@@ -1,0 +1,10 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# You can also ignore other files or directories
+*.pyc
+*.pyo
+*.pyd
